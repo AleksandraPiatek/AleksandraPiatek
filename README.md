@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my bachlelor of science application
 
+
+---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -31,5 +35,6 @@ Here are some ideas to get you started:
 ### :fire: My Stats :
 
 <div align="center">
+  <img src="![](https://github-readme-stats.vercel.app/api?username=AleksandraPiatek&theme=dark&hide_border=false&include_all_commits=false&count_private=false)"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AleksandraPiatek&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
