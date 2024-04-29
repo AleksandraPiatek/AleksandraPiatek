@@ -5,7 +5,7 @@
   My name is Aleksandra and I'm third-year Computer Engineering student at Wrocław University of Science and Technology. I'm abitious, always willing to learn more and have a will-do attitude. I'm passionate about creating solutions for real-life problems. Thanks my to university I acquired knowledge of programming, data structures and algorithms.
  
 </p>
-<br/>
+
 
 ---
 
