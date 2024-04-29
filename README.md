@@ -1,7 +1,7 @@
 ## Hi there!
 
 <p align=left>
-   <img  align=right width=280 height= 155 src="https://img.freepik.com/free-vector/flat-design-gamer-room_23-2148917340.jpg?w=1480&t=st=1713715419~exp=1713716019~hmac=ab651e3eed20cd80be3a2c31e4f0d291f3d327e8fdd3ef0c98ae265093b90fb6">
+
   My name is Aleksandra and I'm third-year Computer Engineering student at Wrocław University of Science and Technology. I'm abitious, always willing to learn more and have a will-do attitude. I'm passionate about creating solutions for real-life problems. Thanks my to university I acquired knowledge of programming, data structures and algorithms.
  
 </p>
@@ -12,7 +12,7 @@
 ### 💻 About my work
 
 - 🔭 I’m currently working on my bachlelor application, which aims to help owners of small pets. More info soon!
-- 🌱 I’m currently learning JavaScript, React, Git and HTML
+- 🌱 I’m currently learning JavaScript, React, HTML and Git
 - 🔍 I'm currently looking for full-time summer internship oportunity
 - 📫 How to reach me: piatek.aleksandra.02@gmail.com
 - 😄 Pronouns: She/Her  
