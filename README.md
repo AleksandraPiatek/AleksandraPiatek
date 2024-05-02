@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on my bachlelor application, which aims to help owners of small pets. More info soon!
 - 🌱 I’m currently learning JavaScript, React, HTML and Git
-- 🔍 I'm currently looking for full-time summer internship oportunity
+- 🔍 I'm currently looking for full-time summer internship oportunity in Poland
 - 📫 How to reach me: piatek.aleksandra.02@gmail.com
 - 😄 Pronouns: She/Her  
 ----
