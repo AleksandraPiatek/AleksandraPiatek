@@ -11,8 +11,8 @@
 
 ### 💻 About my work
 
-- 🔭 I’m currently working on my bachlelor application, which aims to help owners of small pets. More info soon!
-- 🌱 I’m currently learning JavaScript, React, HTML and Git
+- 🔭 I’m currently working on my bachlelor application, which aims to help owners of small pets.
+- 🌱 I’m currently learning React Native and Vue
 - 📫 How to reach me: piatek.aleksandra.02@gmail.com
 - 😄 Pronouns: She/Her  
 ----
