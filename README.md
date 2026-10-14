@@ -2,20 +2,8 @@
 
 <p align=left>
 
-  My name is Aleksandra and I'm fourth-year Applied Computer Science student at Wrocław University of Science and Technology. I'm abitious, always willing to learn more and have a will-do attitude. I'm passionate about creating solutions for real-life problems. Thanks to my university I acquired knowledge of programming, data structures and algorithms.
- 
 </p>
 
-
----
-
-### 💻 About my work
-
-- 🔭 I’m currently working on my bachlelor application, which aims to help owners of small pets.
-- 🌱 I’m currently learning React Native and Vue
-- 📫 How to reach me: piatek.aleksandra.02@gmail.com
-- 😄 Pronouns: She/Her  
-----
   
 ### :hammer_and_wrench: Languages and Tools :
 <div>
